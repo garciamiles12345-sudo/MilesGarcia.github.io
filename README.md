@@ -91,7 +91,7 @@ Student Attendance:
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- Instagram: https://www.instagram.com/miilesss_s/
 - Portfolio: https://yourwebsite.com
 - Email: your.email@example.com
 
