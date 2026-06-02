@@ -92,8 +92,8 @@ Student Attendance:
 ## 📫 Connect With Me
 
 - Instagram: https://www.instagram.com/miilesss_s/
-- Portfolio: https://yourwebsite.com
-- Email: your.email@example.com
+- Facebook: https://www.facebook.com/miles.garcia.921230
+- Email: garciamiles12345@gmail.com
 
 ---
 
