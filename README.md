@@ -70,12 +70,14 @@ My personal portfolio showcasing projects, skills, and achievements.
 **Tech Stack:** React, Tailwind CSS
 
 ---
+Coffee Website
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f0b1fe54-0600-43d0-8984-5f22a3e94a45" />
+<img width="1650" height="632" alt="image" src="https://github.com/user-attachments/assets/49adc8dd-dc94-4cdf-96a4-f02525e62e01" />
 
-## 📊 GitHub Stats
+Student Attendance:
+<img width="755" height="755" alt="image" src="https://github.com/user-attachments/assets/dd121551-4712-4cef-a704-01a48062875b" />
+<img width="1055" height="867" alt="image" src="https://github.com/user-attachments/assets/1aa1dabb-5c68-41a0-bb0a-cb0dc024fbf6" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
