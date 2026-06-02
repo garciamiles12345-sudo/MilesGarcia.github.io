@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Your Miles C. Garcia
+# Hi there 👋, I'm Miles C. Garcia
 
 ## 🚀 About Me
 
-I'm a passionate developer interested in building web applications, automation tools, and open-source projects.
+I'm a developer interested in building web applications, automation tools, and open-source projects.
 
 - 🌱 Currently learning: React, Node.js, and Cloud Computing
 - 💻 Focused on Full-Stack Development
